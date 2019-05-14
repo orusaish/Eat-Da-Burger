@@ -31,16 +31,17 @@ Select a burger you would like to **Devour** from the "Burgers Available to Eat 
 npm install express - https://www.npmjs.com/package/express
 npm install body-parser - https://www.npmjs.com/package/body-parser
 
-Technologies Used:
+### Technologies Used:
 
-nodeJS
-Javascript
-Express
-Handlebars
-MySQL
-HTML
-Jquery
-CSS
-Prerequisites:
+- nodeJS
+- Javascript
+- Express
+- Handlebars
+- MySQL
+- HTML
+- Jquery
+- CSS
+
+### Prerequisites:
 
 Node.js - Download the latest version of Node https://nodejs.org/en/
