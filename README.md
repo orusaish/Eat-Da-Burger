@@ -12,7 +12,7 @@ This app uses Handlebars, MySQL, Node, Express, and a homemade ORM to create a b
 
 - The app will store every burger in a database, whether devoured or not.
 
-Eat-The-Burger is deployed to Heroku :
+Eat-The-Burger is deployed to Heroku : https://young-forest-38187.herokuapp.com/
 
 ## Instructions
 
